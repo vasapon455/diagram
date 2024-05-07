@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T15:48:30.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="tN3djSqOt1jZHrSqDB24" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T16:06:00.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="lrz5-QZ20cU_yF3fexUH" version="24.3.1" type="github">
   <diagram name="Page-1" id="Der8zMHYG1zPOgQvjff3">
-    <mxGraphModel dx="1216" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-1" value="&lt;b&gt;&lt;u&gt;Function SUM&lt;/u&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="98" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-2" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.Start&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2.Read a, b, c&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3.Declare sum = a + b + c&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4.Display sum&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5.End&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="43" y="80" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="100" width="110" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h9s0BQBGmh6dR_71MMHr-14" source="h9s0BQBGmh6dR_71MMHr-3" target="h9s0BQBGmh6dR_71MMHr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-3" value="&lt;b&gt;Start&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="h9s0BQBGmh6dR_71MMHr-14">
+          <mxGeometry x="5" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-4" value="Read a,b,c" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=0;arcSize=12;size=0.23;" vertex="1" parent="h9s0BQBGmh6dR_71MMHr-14">
+          <mxGeometry y="90" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h9s0BQBGmh6dR_71MMHr-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54.660000000000025" y="150" as="sourcePoint" />
+            <mxPoint x="54.660000000000025" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-7" value="sum = a + b +c" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="h9s0BQBGmh6dR_71MMHr-14">
+          <mxGeometry x="5" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h9s0BQBGmh6dR_71MMHr-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54.58000000000004" y="270" as="sourcePoint" />
+            <mxPoint x="54.58000000000004" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-9" value="Display sum" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="h9s0BQBGmh6dR_71MMHr-14">
+          <mxGeometry x="5" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-11" value="&lt;b&gt;End&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="h9s0BQBGmh6dR_71MMHr-14">
+          <mxGeometry x="5" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="h9s0BQBGmh6dR_71MMHr-14" source="h9s0BQBGmh6dR_71MMHr-9" target="h9s0BQBGmh6dR_71MMHr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9s0BQBGmh6dR_71MMHr-16" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;sum(a,b,c)&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;a &amp;lt; 0, b &amp;lt; 0, c &amp;lt; 0, sum &amp;lt; 0&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;input a,b,c&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;sum&amp;lt;-a+b+c&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;return sum&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="250" height="208" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
