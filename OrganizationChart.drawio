@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="140" width="1050" height="680" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="บริษัท ทองเจริญชัย เทรดดิ้ง จำกัด" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="980" height="680" as="geometry" />
         </mxCell>
         <UserObject label="ฝ่ายจัดซื้้อ" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="70" y="410" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="ฝ่ายสโตร์" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="290" y="410" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="ฝ่ายบริหาร" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://www.prachachat.net/wp-content/uploads/2017/09/men-1979261_960_720.jpg;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=center;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxCell style="label;image=https://www.prachachat.net/wp-content/uploads/2017/09/men-1979261_960_720.jpg;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="400" y="200" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
@@ -48,12 +48,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="กรรมการผู้จัดการ" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uU6lD21pNVbpO9sZbxRY-2">
-          <mxCell style="label;image=https://www.prachachat.net/wp-content/uploads/2017/09/men-1979261_960_720.jpg;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=center;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxCell style="label;image=https://www.prachachat.net/wp-content/uploads/2017/09/men-1979261_960_720.jpg;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="400" y="70" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ฝ่ายขาย" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="94u189-zB90sFB9qRGG--4">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="520" y="410" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="ฝ่ายบัญชี" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="94u189-zB90sFB9qRGG--13">
-          <mxCell style="label;image=https://www.prachachat.net/wp-content/uploads/2017/09/men-1979261_960_720.jpg;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;image=https://www.prachachat.net/wp-content/uploads/2017/09/men-1979261_960_720.jpg;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=center;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="740" y="410" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
