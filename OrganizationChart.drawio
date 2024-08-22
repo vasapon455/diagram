@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1231" dy="1321" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="1053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,7 +296,7 @@
         <mxCell id="yOynyzODImW5W2-MT_Ax-90" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="471.5" y="761.5" width="25" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="yOynyzODImW5W2-MT_Ax-94" value="ดูแล เบิกจ่ายสินค้าและวัตถุดิบ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Kanit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKanit;fontStyle=0;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="yOynyzODImW5W2-MT_Ax-94" value="ดูแล เบิกจ่ายสินค้า และวัตถุดิบ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Kanit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKanit;fontStyle=0;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="496.5" y="750" width="156" height="30" as="geometry" />
         </mxCell>
       </root>
